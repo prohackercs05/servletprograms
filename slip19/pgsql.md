@@ -32,7 +32,7 @@ create table users(
 ### 5. Insert Sample Accounts
 
 ```sql
-insert into users values('chetan', 'password123');
+insert into users values('john', 'password123');
 insert into users values('admin', 'admin@123');
 ```
 
