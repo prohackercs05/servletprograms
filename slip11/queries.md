@@ -17,9 +17,9 @@ CREATE TABLE DONAR (
 
 ```sql
 INSERT INTO DONAR (name, blood_group, last_donated) VALUES
-('Chetan Mahajan', 'B+', '2023-12-05'),
-('Manish Kshirsagar', 'O+', '2023-11-20'),
-('Mayur Khairnar', 'B+', '2024-01-10');
+('Alice Johnson', 'B+', '2023-12-05'),
+('John Doe', 'O+', '2023-11-20'),
+('Tony Stark', 'B+', '2024-01-10');
 ```
 
 ### Search Query (used in servlet):
