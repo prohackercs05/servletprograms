@@ -42,9 +42,9 @@ create table DONAR(
 ### 6. Insert Sample Data
 
 ```sql
-insert into DONAR values(1, 'Chetan Mahajan', 'B+', '2023-12-05');
-insert into DONAR values(2, 'Manish Kshirsagar', 'O+', '2023-11-20');
-insert into DONAR values(3, 'Mayur Khairnar', 'B+', '2024-01-10');
+insert into DONAR values(1, 'Alice johnson', 'B+', '2023-12-05');
+insert into DONAR values(2, 'john doe', 'O+', '2023-11-20');
+insert into DONAR values(3, 'tony stark', 'B+', '2024-01-10');
 ```
 
 ### 7. View All Records
